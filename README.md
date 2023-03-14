@@ -10,10 +10,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
-- [How to Contribute](#contribution)
-- [Tests](#tests)
-- [Questions?](#questions)
-
 ## Installation
 
 All the user must do is navigate to the directory in the terminal. Install all dependencies with "npm i" and then source the db/schema.sql in the mySQL CLI. After that you "npm run seed" to seed the database and then "npm start" will run the server and you are ready to do some api calls on insomnia! 
